@@ -7,3 +7,4 @@ matplotlibrc
 *.bat
 *.json
 *.txt
+.gitattributes
